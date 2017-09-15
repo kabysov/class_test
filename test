@@ -1,5 +1,5 @@
 
-echo "Date $(date +%D.%M.%Y"
+echo "Date $(date +%D.%M.%Y)"
 
 
 
